@@ -1,26 +1,49 @@
 <img width="1207" height="507" alt="WhatsApp Image 2026-05-13 at 00 40 49" src="https://github.com/user-attachments/assets/b0339126-1b1e-4ce2-9fd2-b1fe57af7541" />
 
 
-# Global-Data-Salary-Analytics
-Global Workforce Salary Analytics Dashboard project analyzing salary trends across experience levels, employment types, job roles, company sizes, and regions within the data industry. Built using Excel for data cleaning, preprocessing, visualization, and insight generation to uncover workforce compensation patterns and global salary trends.
+# Banking Revenue and Transaction Analytics Report
+This project analyzes customer transaction activities within the banking sector to identify key revenue drivers, transaction trends, customer behavior patterns, and product performance. The analysis focuses on account types, product types, transaction modes, customer locations, and monthly activities to provide actionable business insights.
 
 **INTRODUCTION**
 
-This project focuses on analyzing global salary trends within the data industry using workforce analytics and data visualization techniques. The dashboard explores how factors such as experience level, employment type, job title, company size, and geographical location influence salary distribution across different regions.
-The analysis provides valuable insights into workforce compensation patterns, career progression, and regional pay differences while demonstrating practical skills in data cleaning, preprocessing, visualization, and dashboard creation using Excel.
+This Banking and Finance Report analyzes customer transaction activities across different account types, product types, transaction types, cities, and months. The objective is to evaluate revenue performance, transaction behavior, payment fees, and foreign exchange rates to identify key business opportunities and areas for improvement.
+The analysis provides valuable insights for stakeholders such as Chief Executives, Branch Managers, Auditors, Cash Officers, and the Marketing Team. By understanding the factors that drive revenue and customer engagement, the bank can make informed decisions to improve service delivery, increase profitability, and enhance customer satisfaction.
 
-Sorting and filtering were used to identify top regions, roles, and salary categories. Conditional formatting highlighted important trends and comparisons in the data.
-Calculated fields supported deeper analysis by producing average salaries, workforce distribution percentages, and regional comparisons.
+Using Excel, the data was cleaned, analyzed, and transformed into an interactive dashboard that enables stakeholders to monitor performance and make data driven decisions.
 
 **KEY  DATA AND METHOLDOLOGY**
 
-For the dashboard, Excel visual tools such as line charts, bar charts, pie and donut charts, KPI cards, and geographical maps were used to display insights, while slicers allowed interactive data filtering.
+**Visual Representation**
+
+The dashboard utilizes multiple visualization techniques to communicate business performance effectively:
+Line Chart: Displays monthly transaction trends and revenue fluctuations throughout 2023.
+Pie Chart: Shows the distribution of product types and payment modes used by customers.
+Bar Chart: Compares revenue generated across different transaction types.
+Map Visualization: Highlights revenue performance across customer cities and regions.
+KPI Cards: Present key metrics such as Best Month, Highest Revenue Transaction Type, Most Used Payment Mode, and Best Performing City.
 
 **DATA SPLITTING AND PROCESSING**
 
 **Data Cleaning**
 
-To ensure the dataset was accurate, reliable, and ready for analysis, several data cleaning steps were performed. Duplicate records were checked and removed to avoid repeated salary counts that could distort salary averages and trends. Inconsistent entries in categorical variables such as employment type, company size, and experience level were standardized for uniformity. Errors in salary formatting and country naming conventions were corrected to improve consistency across the dataset. Columns that were not relevant to the analysis were excluded to maintain focus on the core workforce and salary indicators.
+Data Cleaning Process:
+The dataset was cleaned and prepared for analysis to ensure accuracy and reliability of the results. The following steps were performed:
+
+Handled Missing Values:
+Checked all columns for blank or missing values.
+Retained blank values in fields where missing information was acceptable and did not affect the analysis.
+
+Removed Duplicates:
+Examined the dataset for duplicate records and confirmed that no duplicate entries existed.
+
+Validated Data Types:
+Ensured numerical fields such as Transaction Amount, Revenue, Payment Fee, FX Rate, and Revenue per Transaction were correctly formatted as numbers.
+
+Verified categorical fields: such as Account Type, Product Type, Transaction Type, Customer Gender, and City were properly formatted as text.
+
+Checked for Inconsistencies:
+Reviewed categorical variables for spelling errors, inconsistent naming conventions, and formatting issues.
+Standardized text values where necessary.
 
 **STAKE HOLDERS**
 
@@ -34,7 +57,7 @@ The dashboard includes a line graph illustrating transaction trends over time, l
 
 **PROJECT SPLITS**
 
-1.⁠ ⁠**Category one - Independent values:**
+**Category one - Independent values:**
 Account type, 
 Products type,
 Transaction type,
@@ -148,9 +171,6 @@ The bank should investage the reason behind the sharp decline in the month of Fe
 
 The bank should analyse the methodology used in the months that generated good revenue and if they can implement it in low performing months.
 
-**RECOMMENDATION**
-
-The analysis provides valuable insights into transaction patterns, revenue performance, customer payment preferences, and regional business distribution. The findings reveal clear transaction trends over time, highlight the product categories contributing most to revenue, and show the most preferred payment methods among customers. Additionally, the geographical analysis identifies cities generating the highest revenue, helping businesses understand regional performance and market opportunities. Overall, the dashboard supports data-driven decision-making by enabling stakeholders to monitor performance, identify growth areas, and improve business strategies effectively.
 
 **CONCLUSION**
 
