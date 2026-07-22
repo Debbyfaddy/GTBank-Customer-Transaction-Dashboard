@@ -1,7 +1,7 @@
 <img width="1207" height="507" alt="WhatsApp Image 2026-05-13 at 00 40 49" src="https://github.com/user-attachments/assets/b0339126-1b1e-4ce2-9fd2-b1fe57af7541" />
 
 
-# Banking Revenue and Transaction Analytics Report
+# GTBank Customer Transaction Analytics Dashboard (2023)
 This project analyzes customer transaction activities within the banking sector to identify key revenue drivers, transaction trends, customer behavior patterns, and product performance. The analysis focuses on account types, product types, transaction modes, customer locations, and monthly activities to provide actionable business insights.
 
 **INTRODUCTION**
