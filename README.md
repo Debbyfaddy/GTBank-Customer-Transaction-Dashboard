@@ -47,8 +47,8 @@ Standardized text values where necessary.
 
 **STAKE HOLDERS**
 
-Human Resource Managers
-Talent Acquisition Teams
+Human Resource Managers,
+Talent Acquisition Teams,
 Senior Management and Executives
 
 **VISUALIZATION**
